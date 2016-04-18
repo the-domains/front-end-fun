@@ -1,0 +1,28 @@
+name: Front End Fun
+favicon: null
+layout_spectrum: 0.04757452895864844
+typography_spectrum: 0.6269861636683345
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.5281612337566912
+  lightness: 0.7614448978565633
+  saturation: 0.9822730387095362
+  rhythmicContrast: 0.5247254655696452
+purpose: []
